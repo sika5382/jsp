@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<table border = "1" align="center" width ="300">
+	
+		<caption><b>표의 병합 기능</b></caption>
+		
+		<tr>
+			<th colspan = "5"> IT 시간표</th>
+		
+		</tr>	
+	
+		<tr>
+			<th width =""></th>
+			<th width ="500">401호</th>
+			<th>402호</th>
+			<th width ="300">403호</th>
+			<th width ="300">404호</th>
+		</tr>
+		
+		<tr>
+			<th width ="100">09:00 - 12:00</th>
+			<th rowspan="4"><p>공</p><p>사</p>중</th>
+			<th>python 기초</th>
+			<th rowspan="2">네트워크 보안<br>실무자 양성</th>
+			<th width ="500">보충훈련 과정<br>os네트워크</th>
+		</tr>
+		
+		<tr>
+			<th width ="100">12:00 - 15:30</th>
+			<th>java</th>
+			<th>보충룬현 과정<br>언어계열</th>
+		</tr>
+		
+		
+		<tr>
+			<th width ="100">15:30 - 18:30</th>
+			<th>c언어</th>
+			<th rowspan="2">가상화 시스팀 <br> 엔지니어 실무자 양성</th>
+			<th>리눅스</th>
+		</tr>
+		
+		<tr>
+			<th width ="100">19:00 - 22:00</th>
+			<th>python web</th>
+			<th>서버</th>
+		</tr>
+		
+	
+	</table>
+	
+
+</body>
+</html>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<!-- 
+<body text="white" bgcolor='black'>
+	 -->
+<body>
+<h1> h1 : 문서의 주 제목</h1>
+<h2> h2 : 문서의 주 제목 또는 부제목</h2>
+<h3> h3 : 문서의 주 제목 또는 내용</h3>
+<h4> h4 : 문서의 내용</h4>
+<h5> h5 : 문서의 내용</h5>
+<h6> h6 : 문서의 내용</h6>
+	 
+<hr>	 
+	 한줄 띄우기 <br>
+	<p>위하고 아래 한칸 씩 띄우기 </p>
+	
+		 <!-- html 주석 -->
+	또 다른 내용임
+	또 추가
+</body>
+</html>

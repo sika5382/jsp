@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body style="background-color:#34d5eb;">
+	<h1>
+		HTML 연습<
+		
+	</h1>
+		<table  align="center" width="700" bgcolor="khaki">
+
+			<tr>
+				<th colspan="3">
+					<font size="7" color ="blue">회사소개
+					<hr color = "Red" width="400">
+				</th>
+			
+			</tr>
+			
+			
+			
+			<tr>
+				<td>
+			
+					<ul>
+				
+						<li><a href = "https://www.naver.com/" title="네이버">네이버</li><P>
+						<li><a href = "https://www.naver.com/" title="구글">구글</li><p>
+						<li><a href = "https://www.naver.com/" title="다음">다음</li><p>
+					
+					</ul>
+				</td>
+	
+				<td>
+					<h3>
+						<dl>
+							<dt><font size="5">-회사소개-</font><dt>
+							<dd>
+								<p>안녕</p>
+								<p>html 회사임</p>
+								<p>환영해</p>
+							</dd>		
+						</dl>
+		
+					</h3>
+				</td>
+				<td align = "right">
+					<form action = "Newfile1.html">
+						<a href="aa.jpg">
+							<img src="aa.jpg" width = "200" height = "200">
+							<input type="submit">
+						</a>
+					</form>
+				</td>
+			</tr>
+			<tr>
+				<td colspan="3">
+					회사소개 회사소개 회사소개 회사소개
+					<b><i>
+					 Copyright &copy CARE LAB ALL rights reserved
+					</i></b>			
+				</td>
+			
+			</tr>
+				
+	
+	</table>
+		
+		
+	
+	
+	
+	
+	
+
+</body>
+</html>

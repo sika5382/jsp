@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<header>
+		<h1 align="center">
+			Blog
+		</h1>
+	</header>
+	
+	<hr>
+	
+	<span color="green">전체</span>
+	<span>인테리어</span>
+	<span>어학</span>
+	<span>자동차</span>
+	<span>만화</span>
+	
+	<hr>	
+	
+	<table>
+		<tr>
+			<td>
+				<a href="iamge/aa.jpg">
+						<img src="image/aa.jpg" width = "200" height = "200">
+				</a>
+			</td>
+			<td>
+				<a href="iamge/bb.jpg">
+						<img src="image/bb.jpg" width = "200" height = "200">
+				</a>
+			</td>
+		</tr>
+	
+	</table>
+	
+</body>
+</html>

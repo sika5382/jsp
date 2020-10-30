@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	
+		
+		<table>
+		
+			<tr>	
+				<td>	
+				<div>
+					다음
+					<span style="background-color:red">내용에 맞게</span>
+					입력하시오
+				</div>
+				<div>
+					
+					<form>
+						전공분야를 입력하세요
+						<select size = '1' name ="select">
+							<option value="소프트위어">소프트위어
+							<option value="하드웨어">하드웨어
+						</select>
+					</form>
+				</div>
+				
+				<div>
+					이름<input type = "text" name = "이름" placeholder="이름"><br>
+					아이디<input type = "text" name = "아이디" placeholder="아이디"><br>
+					비밀번호<input type = "text" name = "비밀번호" placeholder="비밀번호"><br>	
+				</div>
+				</td>
+				<td align="right">
+					<a href="aa.jpg">
+						<img src="aa.jpg" width = "200" height = "200">
+					</a>
+				
+				</td>
+				<tr>
+					<td>
+						<div>
+							<fieldset style = "width:300px;">
+								<legend><b>성별조사</b></legend>
+								남<input type = "checkbox">
+								여<input type = "checkbox">
+								
+							</fieldset>
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+					<div>
+						<fieldset style = "width:300px;">
+							<legend><b>취미조사</b></legend>
+							책<input type = "checkbox">
+							공부<input type = "checkbox">
+							잠<input type = "checkbox">
+							게임<input type = "checkbox">
+							
+						</fieldset>
+					</div>
+					</td>
+				</tr>
+				<tr>
+					<td>
+						<div>
+							<fieldset style ="width:300px; height:100px;">
+							<legend><b>하고싶은말</b></legend>
+							<textarea row="3" cols="50"></textarea>
+							</fieldset>
+						</div>
+					</td>
+				</tr>	
+				<tr>
+					<td>	
+					<form action="Newfile2.html" method="post">
+						<input type="button" type="submit" value="완료">
+						<input type="reset" value="다시작성">
+					</form>
+					<td>
+				</tr>
+			</table>
+		
+	
+</body>
+</html>

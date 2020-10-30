@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<header>
+		<h1 align="center">
+			Blog
+		</h1>
+	</header>
+	
+	<hr>
+	
+	<span color="green">전체</span>
+	<span>인테리어</span>
+	<span>어학</span>
+	<span>자동차</span>
+	<span>만화</span>
+	
+	<hr>	
+	
+	<table>
+		<tr>
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+			<td rowspan="2">
+				<figure>
+					<video src="video.m4v" controls loop autoplay width="300" height="300">
+		
+				</figure>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+			
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+			
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+		
+			<td>
+				<a href="aa.jpg">
+						<img src="aa.jpg" width = "150" height = "150">
+				</a>
+			</td>
+		
+		
+		</tr>
+	
+	</table>
+	
+</body>
+</html>

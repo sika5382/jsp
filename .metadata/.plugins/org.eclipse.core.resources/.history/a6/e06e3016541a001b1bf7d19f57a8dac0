@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<div>
+		<table  align="center" width="700">
+		
+			<tr>
+				<th>
+				<div>
+					다음
+					<span style="background-color:red">내용에 맞게</span>
+					입력하시오
+				</div>
+				
+				</th>
+			</tr>
+		</table>
+	</div>
+</body>
+</html>

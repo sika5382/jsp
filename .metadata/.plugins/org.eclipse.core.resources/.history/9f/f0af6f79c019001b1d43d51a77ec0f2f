@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body style="background-color:#34d5eb;">
+	<h1>
+		HTML 연습<
+		
+	</h1>
+		<table border="1" align="center" width="300" bgcolor="khaki">
+
+			<tr>
+				<th colspan="3">
+					<font size="7" color ="blue">회사소개
+					<hr color = "Red">
+				</th>
+			
+			</tr>
+			
+			
+			
+			<tr>
+				<td>
+			
+					<ul>
+				
+						<li><a href = "https://www.naver.com/" title="네이버">네이버</li><P>
+						<li><a href = "https://www.naver.com/" title="구글">구글</li><p>
+						<li><a href = "https://www.naver.com/" title="다음">다음</li><p>
+					
+					</ul>
+				</td>
+	
+				<td>
+					<h3>
+						<dl>
+							<dt><font size="5">-회사소개-</font><dt>
+						
+						</dl>
+						
+					
+					</h3>
+				</td>
+			</tr>
+			
+				
+	
+	</table>
+		
+		
+	
+	
+	
+	
+	
+
+</body>
+</html>

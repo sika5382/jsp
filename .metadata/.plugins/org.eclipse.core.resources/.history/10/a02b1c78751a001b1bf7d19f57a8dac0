@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<header>
+		<h1 align="center">
+			Blog
+		</h1>
+	</header>
+	
+	<hr>
+	
+	<span>전체</span>
+	<span>전체</span>
+	<span>전체</span>
+	<span>전체</span>
+	
+	<hr>	
+</body>
+</html>

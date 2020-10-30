@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<dl bgcolor="blue">
+		<dt><b>HTML 연습</b>
+
+	</dl>
+	
+	
+	<table border="1" align="center" width="300" bgcolor="khaki">
+	
+		
+			
+			<caption>
+				<font size="7" color = "blue" align="center"><b>회사소개</b></font>
+				<hr color="red" width = "300">
+				<font size="5"><b>-회사소개-</b></font>
+			
+			
+			</caption>
+			
+			<tr>
+				<ul>
+			
+				<li>네이버</li>
+				<li>구글</li>
+				<li>다음</li>
+				
+				</ul>
+			</tr>
+				
+	
+	</table>
+	
+
+</body>
+</html>
